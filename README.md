@@ -26,7 +26,7 @@ The objective is to evaluate when traditional thermodynamic models remain suffic
   * CH₄ adsorption
 * Variables include:
 
-  * Pressure
+  * Pressure(bar)
   * Adsorption loading (mmol/g)
   * Gas identity
 
@@ -89,8 +89,8 @@ Physics-based models retain interpretability and accuracy for strongly interacti
 Clone the repository:
 
 ```
-git clone <your-repo-link>
-cd <repo-name>
+git clone <https://github.com/AryxnSinhx/CO2-and-CH4-Adsorption-Hybrid-Modelling>
+cd <CO2-and-CH4-Adsorption-Hybrid-Modelling>
 ```
 
 Install required packages:
