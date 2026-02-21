@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository presents a **research-oriented comparison between classical adsorption isotherm models and machine learning approaches** for predicting gas adsorption behaviour. The study focuses on **CO₂ and CH₄ adsorption on ammonium ZSM-5**, integrating physics-based modeling with data-driven regression techniques.
+This repository presents a **research-oriented comparison between classical adsorption isotherm models and machine learning approaches** for predicting gas adsorption behaviour. The study focuses on **CO₂ and CH₄ adsorption on ammonium ZSM-5**, integrating physics-based modeling with data-driven regression techniques. The dataset contains nearly ~900 compiled lab results from NIST data repository and research https://www.nist.gov/mml/fact/reference-isotherm-co2zsm-5
 
 The objective is to evaluate when traditional thermodynamic models remain sufficient and when modern ML models provide superior predictive capability.
 
