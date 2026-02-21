@@ -137,11 +137,3 @@ Hybrid Physics–Machine Learning Modeling of Gas Adsorption on Zeolites, GitHub
 ```
 
 ---
-
-## Future Work
-
-* Physics-informed neural networks for adsorption modeling
-* Multi-temperature isotherm integration
-* Transfer learning across different zeolite frameworks
-
----
